@@ -8,7 +8,7 @@ Much credit to the work of pauleve on his [docker-mtgo](https://github.com/paule
 Using battlenet inside wine is unsupported and attempting to do so is at your own risk. 
 Blizzard has been known to accidently been users running battlenet on Linux so be sure you are OK with the risks!
 
-See https://appdb.winehq.org/objectManager.php?sClass=version&iId=328855 for more information.
+See [WineHQ](https://appdb.winehq.org/objectManager.php?iId=28855&sClass=version) for more information on this project.
 
 ### Note for macOS users
 
