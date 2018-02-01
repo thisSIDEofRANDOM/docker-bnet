@@ -1,12 +1,14 @@
-# BNET docker image
+# Battle.net docker image
 
-This image provides a Battlenet Client for Linux and macOS(testing).
+This image provides a Battle.net Client for Linux and macOS(testing).
 
 It is based on [i386/debian:stretch-slim](https://hub.docker.com/r/i386/debian/) and wine-staging 2.21.
 Much credit to the work of pauleve on his [docker-mtgo](https://github.com/pauleve/docker-mtgo) project.
 
-Using battlenet inside wine is unsupported and attempting to do so is at your own risk. 
+Using Battle.net inside wine is unsupported and attempting to do so is at your own risk. 
 Blizzard has been known to accidently been users running battlenet on Linux so be sure you are OK with the risks!
+
+All copyrights and ownership for Battle.net belong to Blizzard Inc.
 
 See [WineHQ](https://appdb.winehq.org/objectManager.php?iId=28855&sClass=version) for more information on this project.
 
