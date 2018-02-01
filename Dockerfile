@@ -1,5 +1,5 @@
 FROM tsunamibear/wine:stable
-MAINTAINER tsunamibear <tsunamibear@gmail.com>
+MAINTAINER tsunamibear <thissideofrandom@gmail.com>
 CMD bnet
 
 ENV WINE_USER wine
